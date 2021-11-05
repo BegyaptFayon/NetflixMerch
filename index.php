@@ -23,11 +23,11 @@
 			<h3><a href="merlin.html" class="logo-name">Netflix Merch</a></h3>
 		</div>
 		<ul class="nav-links">
-			<li><a href="login.php">Home</a></li>
-			<li><a href="login.php">Products</a></li>
-			<li><a href="login.php">Categories</a></li>
-			<li><a href="login.php">ContactUs</a></li>
-			<li><a href="login.php" id="login">Login</a></li>
+			<li><a href="index.php">Home</a></li>
+			<li><a href="index.php">Products</a></li>
+			<li><a href="index.php">Categories</a></li>
+			<li><a href="index.php">ContactUs</a></li>
+			<li><a href="index.php" id="login">Login</a></li>
 		</ul>
 		<div class="burger">
 			<div class="line1"></div>
